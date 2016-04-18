@@ -1,0 +1,4 @@
+#!/bin/bash
+cp -R /tmp/node_modules ./
+node index.js
+
